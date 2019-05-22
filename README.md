@@ -1,2 +1,2 @@
 # hello-world
-Ideias, Recursos e Compartilhamentos
+Teste de inicialização do Git
